@@ -1,0 +1,10 @@
+messages:
+  - role: system
+    content: >-
+      Improve code of the repository
+      https://github.com/salvesgustavo22-ops/Gsaprova2
+  - role: user
+    content: >-
+      Refer correctly the names of images .PNG in the index.html code using the
+      corresponding image named equally in the root of repository 
+model: openai/gpt-4o
