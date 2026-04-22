@@ -26,14 +26,6 @@ function trackEvent(eventName, planName) {
         });
     }
     
-    // Log para debug
-    console.log('Event tracked:', {
-        event: eventName,
-        plan_name: planName,
-        utm_source: utmSource,
-        utm_medium: utmMedium,
-        utm_campaign: utmCampaign
-    });
 }
 
 // Controle do CTA sticky
