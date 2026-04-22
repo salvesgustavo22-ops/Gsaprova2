@@ -28,6 +28,8 @@ body {
     right: 20px;
     z-index: 1000;
     animation: pulse 2s infinite;
+    opacity: 0;
+    visibility: hidden;
 }
 
 .cta-sticky .cta-button {
